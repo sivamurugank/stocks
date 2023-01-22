@@ -1,0 +1,500 @@
+    4  ls
+    5  cd .
+    6  ls
+    7  clear
+    8  cd ..
+    9  ls
+   10  pwd
+   11  pwd
+   12  git
+   13  ls
+   14  cd ..
+   15  ls
+   16  cd ..
+   17  ls
+   18  git status
+   19  git clone https://github.com/sivamurugank/trainingpublic.git
+   20  ls
+   21  cd trainingpublic/
+   22  . code
+   23  ls
+   24  cd trainingpublic/
+   25  code .
+   26  ls
+   27  git add first.py 
+   28  git commit -m "addition added"
+   29  git status
+   30  git push
+   31  git pull
+   32  cd ask
+   33  l
+   34  ls
+   35  cd u
+   36  ls
+   37  cd trainingpublic/
+   38  ll -lrt
+   39  git branch
+   40  git branch main
+   41  git chechout main
+   42  git checkout main
+   43  ll -lrt
+   44  cd ..
+   45  ls -lrt
+   46  cd ls
+   47  cd trainingpublic/
+   48  ls -lrt
+   49  git inint
+   50  git init
+   51  ls -lrt
+   52   clear
+   53  git branch
+   54  git config --global user.name "siva"
+   55  git config --global user.password "murugan"
+   56  git log
+   57  clear
+   58  ls
+   59  mkdir bus
+   60  git commit -am 'folder added'
+   61  cd bus/
+   62  git init
+   63  ls -lrt
+   64  cd .
+   65  ls
+   66  cd ..
+   67  ls
+   68  ls lrt
+   69  ls -lrt
+   70  clear
+   71  ls
+   72  cd bus/
+   73  bus.py
+   74  ll -lrt
+   75  cd ..
+   76  cd ..
+   77  mkdir busapp
+   78  cd busapp/
+   79  git init
+   80  touch bus.py
+   81  ls
+   82  cler
+   83  clear
+   84  git commit -am 'bus'
+   85  git add .
+   86  git commit -m 'bus app'
+   87  lear
+   88  clear
+   89  branch
+   90  git branch
+   91  git clone https://github.com/sivamurugank/bus.git
+   92  ls
+   93  git push
+   94  ls
+   95  git add bus.py
+   96  git commit
+   97  git commit -m 'bus'
+   98  clear
+   99  ls
+  100  ls -lrt
+  101  git branch
+  102  git push orgin master
+  103  git push -r orgin master
+  104  claer
+  105  clear
+  106  lz
+  107  git --version 
+  108  cler
+  109  clear
+  110  ls
+  111  cd ..
+  112  ls
+  113  cd busapp/
+  114  ls
+  115  cd bus
+  116  ls
+  117  g
+  118  ll -lrt
+  119  clear
+  120  cd..
+  121  cd ..
+  122  ll -lrt
+  123  cd ..
+  124  ls -lrt
+  125  cd busapp/
+  126  ll -lrt
+  127  cd ..
+  128  rm -rf busapp/
+  129  ls
+  130  mkdir
+  131  mkdir ask
+  132  ls
+  133  cd ask
+  134  git init
+  135  ll -lrt
+  136  touch file1
+  137  nano file1
+  138  clear
+  139  ls
+  140  git status
+  141  git add file1 
+  142  git status
+  143  git commit -m 'file added'
+  144  clear
+  145  git status
+  146  ll -lrt
+  147  touch file2
+  148  nano file2
+  149  git log
+  150  clear
+  151  git rm --cached file1
+  152  git status
+  153  git restore --staged file1
+  154  git status
+  155  ls
+  156  code.
+  157  code .
+  158  git status
+  159  nano file
+  160  ls
+  161  nano file1
+  162  git status
+  163  git restore file1
+  164  git status
+  165  git log
+  166  git log --oneline
+  167  touch python.py java.py
+  168  git add.
+  169  git add .
+  170  ls
+  171  git commit -m 'code'
+  172  git status
+  173  git log
+  174  git reset a665b274e33bdc8b33e5b4eb838e19ca96db7243
+  175  git status
+  176  git add .
+  177  git commit 'coding'
+  178  git status
+  179  git commit -m 'coding'
+  180  clear
+  181  git status
+  182  git log
+  183  touch rever.py
+  184  git add .
+  185  git commit -m 're commit'
+  186  git log
+  187  git revert a12da9e1c4083678b721554256fe3069e0ca60d0
+  188  git log
+  189  git status
+  190  ls -lrt
+  191  touch no
+  192  git add no
+  193  git commit -m "no no"
+  194  git log
+  195  git revert d0401e721859cef1bce04aa2fdcd8a37817a3d77 --no-commit
+  196  git log
+  197  git status
+  198  ls -lrt
+  199  git revert --staged no
+  200  clear
+  201  ls
+  202  git status
+  203  git restore --staged no
+  204  git status
+  205  git add no
+  206  git commit -m "no comming"
+  207  ld
+  208  ld
+  209  ld
+  210  clear
+  211  ls
+  212  git log
+  213  git status
+  214  ls
+  215  cd no
+  216  cleaar
+  217  clear
+  218  git log
+  219  git reset --hard 2d12353c5e1512d09c4ea899ba0b961a18d7dede
+  220  git log
+  221  ls
+  222  cxlear
+  223  clear
+  224  cd ..
+  225  ls
+  226  cd ask/
+  227  ls
+  228  cd ..
+  229  clear
+  230  ls
+  231  cs ask/
+  232  cd ask/
+  233  git push
+  234  git clear
+  235  clear
+  236  cd ..
+  237  ls
+  238  git clone https://github.com/sivamurugank/stocks.git
+  239  ll
+  240  cd stocks/
+  241  clear
+  242  ll -lrt
+  243  touch code1
+  244  git add code1
+  245  git commit -m code1
+  246  clear
+  247  ls
+  248  code .
+  249  nano code1 
+  250  nano code1 
+  251  code .
+  252  code2.py
+  253  touch code2.py
+  254  git status
+  255  git add code1
+  256  git commit -m "python file"
+  257  git status
+  258  git add code1.py 
+  259  git add code2.py
+  260  git commit -m "hello code"
+  261  ls
+  262  git status
+  263  ls
+  264  clea
+  265  clear
+  266  git log
+  267  git push orgin main
+  268  git status
+  269  git branch
+  270  git push origin main
+  271  git pull -r
+  272  git pull -r
+  273  clear
+  274  ls
+  275  cd ..
+  276  ls
+  277  git clone https://github.com/sivamurugank/trainingpublic.git
+  278  rm -rm trainingpublic/
+  279  rm -r trainingpublic/
+  280  clear
+  281  ls
+  282  git remote -v trainingpublic/
+  283  cd trainingpublic/
+  284  git remote -v trainingpublic/
+  285  git remote -v
+  286  rm trainingpublic/
+  287  rm -r trainingpublic/
+  288  git rm -r trainingpublic/
+  289  git clone https://github.com/sivamurugank/trainingpublic.git
+  290  rm -r trainingpublic/
+  291  git clone https://github.com/sivamurugank/trainingpublic1.git
+  292  git remote -v
+  293  cd trainingpublic
+  294  git remote -v
+  295  ls
+  296  l
+  297  cd ..
+  298  cd trainingpublic1
+  299  git remote -v
+  300  cd ..
+  301  cd stocks/
+  302  git remote -v
+  303  cd ..
+  304  ls
+  305  cd ask/
+  306  git remote add origin https://github.com/sivamurugank/ask.git
+  307  git remote -v
+  308  git branch
+  309  git push -u origin master
+  310  cd ..
+  311  ls
+  312  cd stocks/
+  313  ls
+  314  cd ..
+  315  clear
+  316  cd stocks/
+  317  git branch
+  318  cd ..
+  319  ls
+  320  cd trainingpublic1
+  321  git branch
+  322  cd ..
+  323  git ask
+  324  cd ask/
+  325  clear 
+  326  branch
+  327  git branch
+  328  git branch develop
+  329  git branch
+  330  git checkout develop
+  331  git branch
+  332  ls
+  333  cd ..
+  334  git branch -b testing
+  335  git checkout -b testing
+  336  cd ask/
+  337  ls
+  338  git branch
+  339  git checkout master 
+  340  git checkout -b testing
+  341  git branch
+  342  git checkout develop 
+  343  ls
+  344  code .
+  345  git status
+  346  touch hai.txt
+  347  git status
+  348  git add .
+  349  git commit -m "updated"
+  350  git status
+  351  git branch
+  352  cd testing
+  353  git checkout testing 
+  354  git merge develop testing
+  355  git branch
+  356  lls
+  357  ll
+  358  touch testcomplete
+  359  git add .
+  360  git commit -m "testing completed"
+  361  git merege testing master
+  362  git merge testing master
+  363  ls
+  364  cd ..
+  365  cd ask/
+  366  git branch
+  367  ls
+  368  git merge testing master
+  369  git checkout master
+  370  ls
+  371  git checkout develop 
+  372  ls
+  373  git merege testing develop
+  374  git merge testing develop
+  375  git checkout testing 
+  376  ls
+  377  git merge master testing
+  378  git checkout master 
+  379  ls
+  380  git merge testing master
+  381  ls
+  382  clear
+  383  ls
+  384  git branch
+  385  git branch -d develop testing
+  386  git branch
+  387  git log
+  388  clear
+  389  git remote -v
+  390  git branch
+  391  ls
+  392  git checkout -b features
+  393  git checkout master 
+  394  ls
+  395  touch rebase.txt
+  396  git add .
+  397  git checkout features 
+  398  touch rebase
+  399  touch rebase1
+  400  git add .
+  401  git commit -m "rebased"
+  402  ls
+  403  git log
+  404  ls
+  405  git checkout master 
+  406  git status
+  407  ls
+  408  touch reb reb2
+  409  git add red
+  410  git add reb
+  411  git commit -m "reb add"
+  412  git add reb2
+  413  git commit -m "reb2 add"
+  414  git log
+  415  git branch
+  416  git rebase features master
+  417  ls
+  418  git log
+  419  git checkout features 
+  420  touch cherry1
+  421  git add cherry1
+  422  git commit -m "cherry added"
+  423  touch cherry2
+  424  git add cherry2
+  425  git commit -m "cherry2 ADDED"
+  426  git log
+  427  git checkout master 
+  428  git log
+  429  git log -on1line
+  430  git log -oneline
+  431  git log --oneline
+  432  git cherypick 3976d6dee09cbf95094286e4619818abfe3142a8
+  433  git chery-pick 3976d6dee09cbf95094286e4619818abfe3142a8
+  434  git cherry-pick 3976d6dee09cbf95094286e4619818abfe3142a8
+  435  git log --oneline
+  436  git checkout features 
+  437  git log --oneline
+  438  git checkout master 
+  439  git log --oneline
+  440  git status
+  441  touch one two
+  442  git stash 
+  443  git add one two
+  444  git stash 
+  445  git status
+  446  git stash list
+  447  touch tamil
+  448  git tamil
+  449  git statsu
+  450  git status
+  451  git add tamil
+  452  git commit -m "tamil file added"
+  453  git stash list
+  454  git stash pop
+  455  git add one
+  456  git commit -m "stash check"
+  457  'git status
+  458  ijkhihj
+  459  :exit
+  460  $
+  461  :wq
+  462  ls
+  463  cd ask/
+  464  ls
+  465  git status
+  466  touch stash2 stash 3
+  467  git stash stash2
+  468  git statsu
+  469  git status
+  470  git stash
+  471  git add stash
+  472  git add stash2
+  473  git stash
+  474  git stash list
+  475  touch stash3
+  476  git add.
+  477  git add .
+  478  git stash
+  479  git stash list
+  480  git stash pop 5dfe793
+  481  git stash pop 0
+  482  git commit -m "stashing seperate pop0"
+  483  git commit
+  484  ll
+  485  git log
+  486  cd ask/
+  487  git log
+  488  cd ask/
+  489  git log --oneline 
+  490  ls
+  491  pwd
+  492  cd ask
+  493  ls
+  494  cat python.py 
+  495  . code
+  496  ls
+  497  cd ask/
+  498  cd ..
+  499  ls
+  500  cd stocks/
+  501  ld
+  502  ls
+  503  history > history.txt
